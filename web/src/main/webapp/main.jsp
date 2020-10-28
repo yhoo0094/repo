@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+main페이지
 </body>
 </html>
